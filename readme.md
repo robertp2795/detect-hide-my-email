@@ -8,5 +8,7 @@ Takes an array of email addresses, returns an object containing each email and i
 ### Confidence scores
 
 0 -> Low
+
 50 -> Medium
+
 100 -> High
